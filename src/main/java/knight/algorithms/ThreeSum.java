@@ -1,3 +1,6 @@
+package knight.algorithms;
+import edu.princeton.cs.algs4.*;
+
 public class ThreeSum
 {
     public static int count(int[] a)

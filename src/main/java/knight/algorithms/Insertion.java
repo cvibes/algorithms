@@ -1,3 +1,6 @@
+package knight.algorithms;
+//import edu.princeton.cs.algs4.*;
+
 public class Insertion extends SortBase
 {
     public static void sort(Comparable[] a)

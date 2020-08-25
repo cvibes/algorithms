@@ -1,3 +1,6 @@
+package knight.algorithms;
+//import edu.princeton.cs.algs4.*;
+
 public class SortBase
 {
     protected static boolean less(Comparable v, Comparable w)

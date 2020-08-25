@@ -1,5 +1,6 @@
-import java.util.Iterator;
-
+package knight.algorithms;
+//import java.util.Iterator;
+//import edu.princeton.cs.algs4.*;
 public class ArrayStack<Item>
 {
     private Item[] a;
